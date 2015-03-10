@@ -179,6 +179,7 @@ a:focus {
     border-radius: 20px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
+    opacity: 0.8;
 }
 
 
